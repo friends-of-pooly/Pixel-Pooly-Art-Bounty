@@ -1,24 +1,34 @@
 import Link from 'next/link';
 
+import { Logo } from './Logo';
 import { Background } from '../background/Background';
 import { Button } from '../button/Button';
 import { HeroOneButton } from '../hero/HeroOneButton';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
-import { Logo } from './Logo';
 
 const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
+          <Link href="https://snapshot.org/#/friendsofpooly.eth" target={'_blank'}>
+            <a>Snapshot</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="https://app.dework.xyz/friends-of-pooly/art-1" target={'_blank'}>
+            <a>Dework</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="https://twitter.com/FriendsofPooly" target={'_blank'}>
+            <a>Twitter</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="https://discord.gg/dJqRzUWfa7" target={'_blank'}>
+            <a>Discord</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -28,15 +38,15 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
-            <span className="text-primary-500">React developers</span>
+            {"Friends of Pooly's first\n"}
+            <span className="text-indigo-700">Art Bounty Showcase</span>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
+        description="Pooly NFT holders vote for your favorites on Snapshot"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://snapshot.org/#/friendsofpooly.eth" target={'_blank'}>
             <a>
-              <Button xl>Download Your Free Theme</Button>
+              <Button xl>Vote on Snapshot</Button>
             </a>
           </Link>
         }

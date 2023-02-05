@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'FoP Art Bounty Showcase',
+  title: 'FoP Art Bounty Showcase',
+  description: 'Friends of Pooly Art Bounty showcase app',
   locale: 'en',
+  company: 'Friends of Pooly'
 };
