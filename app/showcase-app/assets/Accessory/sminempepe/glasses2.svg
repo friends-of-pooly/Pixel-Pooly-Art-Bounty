@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="m9.9.1v9.8H.1V.1h9.8m.1-.1H0v10h10V0h0Z"/>
+    <path d="m19.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m29.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m39.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m49.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m59.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m69.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m79.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m89.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m99.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m109.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m119.9.1v9.8h-9.8V.1h9.8m.1-.1h-10v10h10V0h0Z"/>
+    <path d="m9.9,10.1v9.8H.1v-9.8h9.8m.1-.1H0v10h10v-10h0Z"/>
+    <path d="m19.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m29.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m39.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m49.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m59.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m69.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m79.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m89.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m99.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m109.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m119.9,10.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m9.9,20.1v9.8H.1v-9.8h9.8m.1-.1H0v10h10v-10h0Z"/>
+    <path d="m19.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m29.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m39.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m49.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m59.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m69.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m79.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m89.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m99.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m109.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m119.9,20.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m9.9,30.1v9.8H.1v-9.8h9.8m.1-.1H0v10h10v-10h0Z"/>
+    <path d="m19.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m29.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m39.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m49.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m59.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m69.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m79.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m89.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m99.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m109.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m119.9,30.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m9.9,40.1v9.8H.1v-9.8h9.8m.1-.1H0v10h10v-10h0Z"/>
+    <path d="m19.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m29.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m39.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m49.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m59.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m69.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m79.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m89.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m99.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m109.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+    <path d="m119.9,40.1v9.8h-9.8v-9.8h9.8m.1-.1h-10v10h10v-10h0Z"/>
+  </g>
+  <polyline points="10 0 10 10 0 10 0 0"/>
+  <polyline points="20 0 20 10 10 10 10 0"/>
+  <polyline points="30 0 30 10 20 10 20 0"/>
+  <polyline points="40 0 40 10 30 10 30 0"/>
+  <polyline points="50 0 50 10 40 10 40 0"/>
+  <polyline points="60 0 60 10 50 10 50 0"/>
+  <polyline points="70 0 70 10 60 10 60 0"/>
+  <polyline points="80 0 80 10 70 10 70 0"/>
+  <polyline points="90 0 90 10 80 10 80 0"/>
+  <polyline points="100 0 100 10 90 10 90 0"/>
+  <polyline points="110 0 110 10 100 10 100 0"/>
+  <polyline points="120 0 120 10 110 10 110 0"/>
+  <rect x="0" y="10" width="10" height="10"/>
+  <rect x="10" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="20" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="30" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="40" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="50" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="60" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="70" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="80" y="10" width="10" height="10"/>
+  <rect class="cls-2" x="90" y="10" width="10" height="10"/>
+  <rect x="100" y="10" width="10" height="10"/>
+  <rect x="110" y="10" width="10" height="10"/>
+  <rect x="0" y="20" width="10" height="10"/>
+  <rect x="10" y="20" width="10" height="10"/>
+  <rect class="cls-2" x="20" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="30" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="40" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="50" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="60" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="70" y="20" width="10" height="10"/>
+  <rect class="cls-1" x="80" y="20" width="10" height="10"/>
+  <rect class="cls-2" x="90" y="20" width="10" height="10"/>
+  <rect x="100" y="20" width="10" height="10"/>
+  <rect x="110" y="20" width="10" height="10"/>
+  <rect x="0" y="30" width="10" height="10"/>
+  <rect x="10" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="20" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="30" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="40" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="50" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="60" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="70" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="80" y="30" width="10" height="10"/>
+  <rect class="cls-2" x="90" y="30" width="10" height="10"/>
+  <rect x="100" y="30" width="10" height="10"/>
+  <rect x="110" y="30" width="10" height="10"/>
+  <polyline points="0 50 0 40 10 40 10 50"/>
+  <polyline points="10 50 10 40 20 40 20 50"/>
+  <polyline points="20 50 20 40 30 40 30 50"/>
+  <polyline points="30 50 30 40 40 40 40 50"/>
+  <polyline points="40 50 40 40 50 40 50 50"/>
+  <polyline points="50 50 50 40 60 40 60 50"/>
+  <polyline points="60 50 60 40 70 40 70 50"/>
+  <polyline points="70 50 70 40 80 40 80 50"/>
+  <polyline points="80 50 80 40 90 40 90 50"/>
+  <polyline points="90 50 90 40 100 40 100 50"/>
+  <polyline points="100 50 100 40 110 40 110 50"/>
+  <polyline points="110 50 110 40 120 40 120 50"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="wing-left-bones" shape-rendering="crispEdges" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 320 320"
+	 style="enable-background:new 0 0 320 320;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E8E8E8;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#BEBEBE;}
+</style>
+<path class="st0" d="M10,180h10v10H10V180z M50,240h10v10H50V240z M80,240h10v10H80V240z M80,250H70v20h10v-10V250z M60,230h10v10
+	H60V230z M30,190h10v10H30V190z M40,210h10v10H40V210z M20,200h10v10H20V200z M30,220h10v10H30V220z"/>
+<path class="st1" d="M40,190h20v10H40V190z M80,270H70v20v10h10v-10V270z M60,250H50v10v10h10V250z M80,250h10v10H80V250z M60,210
+	h10h20v-10H60V210z M30,230h10v10H30V230z M20,180h10v10H20V180z"/>
+<path class="st2" d="M20,190h10v10H20V190z M80,230h10v10H80V230z M40,210h10h10v-10H40V210z M60,220h10v10H60V220z M70,210h20v10
+	H70V210z"/>
+</svg>
